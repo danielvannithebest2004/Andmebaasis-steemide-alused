@@ -7,3 +7,5 @@ kirjed-записи
 väljed-поля
 andmed-данные 
 väärtused-значения
+git clone-
+query-zapros-päring
